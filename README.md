@@ -1,6 +1,7 @@
 # blog
 
 ## Linux Kernel FileSystem
+[01_内核文件read过程简述](https://github.com/ridiJason/blog/issues/1#issue-1683506376)
 
 ## Linux Kernel Schedule
 
