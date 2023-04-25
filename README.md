@@ -8,4 +8,4 @@
 
 ## Linux Kernel Debug
 
-## Storage 
+## Storage Medium
